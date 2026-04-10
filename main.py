@@ -1,4 +1,4 @@
-print("Como esta mi gente")
+print("Como esta desed auxiliar")
 
 nombre = input("Ingrese su name: ")
 
